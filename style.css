@@ -54,6 +54,9 @@
   font-size: 30px;
 }
 
+i {
+  color: #2ebd59;
+}
 .content a {
   padding-top: 10px;
   font-size: 24px;
